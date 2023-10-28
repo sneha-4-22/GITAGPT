@@ -25,7 +25,7 @@ const Signup = ({ navigation }) => {
                     <Text style={{
                         fontSize: 16,
                         color: COLORS.black
-                    }}>Connect with your friend today!</Text>
+                    }}>Connect with your Kanha Ji today!</Text>
                 </View>
 
                 <View style={{ marginBottom: 12 }}>
@@ -153,7 +153,7 @@ const Signup = ({ navigation }) => {
                         color={isChecked ? COLORS.primary : undefined}
                     />
 
-                    <Text>I aggree to the terms and conditions</Text>
+                    <Text>I agree to the terms and conditions</Text>
                 </View>
 
                 <Button

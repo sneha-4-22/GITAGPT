@@ -18,69 +18,23 @@ const Welcome = ({ navigation }) => {
                     <Image
                         source={require("../assets/hero1.jpg")}
                         style={{
-                            height: 100,
-                            width: 100,
+                            height: 400,
+                            width: 400,
                             borderRadius: 20,
                             position: "absolute",
-                            top: 10,
+                            top: 5,
                             transform: [
-                                { translateX: 20 },
-                                { translateY: 50 },
-                                { rotate: "-15deg" }
+                                { translateX: 4 },
+                                { translateY: 30 }
                             ]
                         }}
                     />
 
-                    <Image
-                        source={require("../assets/hero3.jpg")}
-                        style={{
-                            height: 100,
-                            width: 100,
-                            borderRadius: 20,
-                            position: "absolute",
-                            top: -30,
-                            left: 100,
-                            transform: [
-                                { translateX: 50 },
-                                { translateY: 50 },
-                                { rotate: "-5deg" }
-                            ]
-                        }}
-                    />
+                    
 
-                    <Image
-                        source={require("../assets/hero3.jpg")}
-                        style={{
-                            width: 100,
-                            height: 100,
-                            borderRadius: 20,
-                            position: "absolute",
-                            top: 130,
-                            left: -50,
-                            transform: [
-                                { translateX: 50 },
-                                { translateY: 50 },
-                                { rotate: "15deg" }
-                            ]
-                        }}
-                    />
+                    
 
-                    <Image
-                        source={require("../assets/hero2.jpg")}
-                        style={{
-                            height: 200,
-                            width: 200,
-                            borderRadius: 20,
-                            position: "absolute",
-                            top: 110,
-                            left: 100,
-                            transform: [
-                                { translateX: 50 },
-                                { translateY: 50 },
-                                { rotate: "-15deg" }
-                            ]
-                        }}
-                    />
+                    
                 </View>
 
                 {/* content  */}
@@ -107,12 +61,8 @@ const Welcome = ({ navigation }) => {
                             fontSize: 16,
                             color: COLORS.white,
                             marginVertical: 4
-                        }}>Connect with each other with chatting</Text>
-                        <Text style={{
-                            fontSize: 16,
-                            color: COLORS.white,
-                        }}>Calling, Enjoy Safe and private texting</Text>
-                    </View>
+                        }}>Engage in a Divine Conversation with Kanha Ji</Text>
+                        </View>
 
                     <Button
                         title="Join Now"

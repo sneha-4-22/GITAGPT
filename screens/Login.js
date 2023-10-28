@@ -15,18 +15,18 @@ const Login = ({ navigation }) => {
             <View style={{ flex: 1, marginHorizontal: 22 }}>
                 <View style={{ marginVertical: 22 }}>
                     <Text style={{
-                        fontSize: 22,
+                        fontSize: 20,
                         fontWeight: 'bold',
                         marginVertical: 12,
                         color: COLORS.black
                     }}>
-                        Hi Welcome Back ! 👋
+                       Jai Shri Krishna! Welcome Back! 🙏
                     </Text>
 
                     <Text style={{
                         fontSize: 16,
                         color: COLORS.black
-                    }}>Hello again you have been missed!</Text>
+                    }}>Krishna's grace is here again! You have been missed! </Text>
                 </View>
 
                 <View style={{ marginBottom: 12 }}>
