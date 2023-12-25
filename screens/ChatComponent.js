@@ -4,7 +4,7 @@ import axios from 'axios';
 
 const ChatComponent = () => {
   const [messages, setMessages] = useState([]);
-  const apiKey = 'VF.DM.654f2817e25d4b0007e9e213.CiVeIWoM9qanNBEp';
+  const apiKey = {api};
   const userID = 'user_123'; 
 
   const handleSend = async (newMessages = []) => {
