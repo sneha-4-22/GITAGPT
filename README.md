@@ -12,6 +12,7 @@ This mobile application uses React Native to bring the teachings of the Bhagavad
   ![image](https://github.com/sneha-4-22/GITAGPT/assets/112711068/69950c1a-29fa-43e4-a8e3-18779f7f30ae)
 From the set of my model ques/ans i made the api
 - **API:**  https://sneha-4-22.github.io/Training/react.json
+- used this api key for the knowledege base in voiceflow then i integrated it in app
 - *ACCURACY*
 - ![image](https://github.com/sneha-4-22/GITAGPT/assets/112711068/23d983b5-9073-46e0-a295-0a3cfed4da68)
 
