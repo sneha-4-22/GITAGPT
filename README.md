@@ -5,10 +5,7 @@
 
 This mobile application uses React Native to bring the teachings of the Bhagavad Gita to users with the help of GPT (Generative Pre-trained Transformer) technology. The app provides an interactive and user-friendly way to explore the profound wisdom of the Bhagavad Gita.
 
-- **API:**  https://sneha-4-22.github.io/Training/react.json
-- used this api key for the knowledege base in voiceflow then i integrated it in app
-- *ACCURACY*
-- ![image](https://github.com/sneha-4-22/GITAGPT/assets/112711068/23d983b5-9073-46e0-a295-0a3cfed4da68)
+
 
 ## App Preview
 
