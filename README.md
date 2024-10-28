@@ -10,6 +10,13 @@ Welcome to the  Bhagwad Gita Gpt! 🎉 This delightful mobile application, built
 - 📚 Wisdom straight from the Bhagavad Gita
 - 🧠 Custom-trained model for authentic responses
 
+  
+![Screenshot 2024-09-16 193433](https://github.com/user-attachments/assets/1adc2543-9998-4705-a9ac-7605f38aaa55)
+![Screenshot 2024-09-16 193509](https://github.com/user-attachments/assets/57471267-b968-4a32-85f4-ac131ede3261)
+![Screenshot 2024-09-16 204958](https://github.com/user-attachments/assets/662ca344-2d42-4b68-96ff-0453cc05b85b)
+![Screenshot 2024-09-16 211644](https://github.com/user-attachments/assets/e45ac013-f1f7-45a5-a882-04d0ab260ea4)
+
+
 ## 🛠️ Technologies Used
 - ⚛️ React Native
 - 📱 Expo
